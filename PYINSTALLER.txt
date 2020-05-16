@@ -1,0 +1,7 @@
+pyinstaller --add-data 'C:\mini project\diabetes_logo.png:.' --add-data 'C:\mini project\KLELogo.png:.' --onefile app_v7.py (for ubuntu)
+pyinstaller --add-data 'C:\mini project\diabetes_logo.png;.' --add-data 'C:\mini project\KLELogo.png;.' --onefile app_v7.py (for window)
+
+
+
+
+pyinstaller --add-data 'C:\Users\Lenovo\Desktop\flask\abc\inszoom1.png;.' --onefile app_final.py(for INSZOOM BR1)
